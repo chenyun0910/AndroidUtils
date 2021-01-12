@@ -30,7 +30,7 @@ import java.util.UUID;
  * @date 2017-9-4 14:40
  * @Description:
  */
-public class APPToolsUtil {
+public class AppToolsUtil {
 
     /**
      * 返回当前程序code
