@@ -26,6 +26,6 @@ implementation 'com.github.chenyun0910:AndroidUtils:1.0'
 <dependency>
    <groupId>com.github.chenyun0910</groupId>
    <artifactId>AndroidUtils</artifactId>
-   <version>Tag</version>
+   <version>1.0</version>
 </dependency>
 ```
